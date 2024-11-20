@@ -13,6 +13,9 @@ export default {
         foreground: "var(--foreground)",
       },
     },
+    screens: {
+      xl: "1200px",
+    },
   },
   plugins: [],
 } satisfies Config;
